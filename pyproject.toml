@@ -6,6 +6,7 @@ authors = ["yubblenug <chant690@hsd.k12.or.us>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+dearpygui = "^1.6.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
